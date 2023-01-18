@@ -61,6 +61,8 @@ print("z*3 = 333  ::::::", z*3)
 print("int(z)*3 = 9 ::::::", int(z)*3)
 
 name = input("what is your name ? : ")
-print(name)
+age = int(input("how old are you ? : "))
+age += 1
+print(name, age)
 
 
