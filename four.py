@@ -208,7 +208,7 @@ class Motorcycle(Vehicle):
     def go(self):
         print("You ride the motocycle")
 
-vehicle = Vehicle()
+# vehicle = Vehicle()
 car = Car()
 motorcycle = Motorcycle()
 
@@ -217,6 +217,7 @@ car.go()
 motorcycle.go()
 
 
+print("#////////////////////////////////////////////////////////////// 49. Object as Argument..........")
 
 
 
